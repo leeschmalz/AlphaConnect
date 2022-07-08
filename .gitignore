@@ -1,0 +1,6 @@
+logs
+models
+stable-baselines3-contrib
+__pycache__
+*.ipynb
+*.pyc
